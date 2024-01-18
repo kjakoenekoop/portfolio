@@ -1,0 +1,24 @@
+import { Articles, Contact, Credentials, Location, Portfolio, Skills, Works, About, CurrentlyWatching, Status } from "./components"
+
+
+export default async function Home() {
+
+    return (
+        <main className="min-h-screen max-w-7xl mx-auto px-4 gap-4 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 grid-rows-[8rem] pb-10 auto-rows-[10rem]">
+            <section className="col-span-2 sm:col-span-4 lg:col-span-6 flex items-center">
+                <h1 className="text-6xl font-bold text-brand-gold">KJA Koenekoop</h1>
+                <hr />
+            </section>
+            <About />
+            <Portfolio />
+            <Skills />
+            <Works />
+            <Articles />
+            <Credentials />
+            <Contact />
+            <Location />
+            <Status />
+            <CurrentlyWatching />
+        </main >
+    )
+}

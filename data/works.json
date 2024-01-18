@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "16840b5d-cde6-4ec5-9a6a-46ab0f21e052",
+            "role": "Photographic Associate",
+            "company": "STSN",
+            "experience": 2,
+            "description": "I was the right-hand person in the dynamic world of photography. Picture this: me, juggling lenses, lights, and laughter, all while ensuring every shoot ran smoother than a fresh SD card. From setting up the perfect shot to fine-tuning images that made people say 'wow'. With a keen eye for the details and a knack for making Photoshop and Lightroom dance to my tune, I wasn't just an assistant; I was a backstage photography wizard"
+        },
+        {
+            "id": "c2a8977f-f313-4d47-83dd-45fc9cbb3467",
+            "role": "Pharmaceutical Delivery Driver",
+            "company": "SARG",
+            "experience": 1,
+            "description": "I was more than just a delivery driver; I was a lifeline on four wheels. Imagine me, zipping through the streets, with a mission to deliver vital pharmaceuticals faster than you can say 'prescription refill'. I navigated routes, managed timely deliveries, and ensured the safe transport of medications, all with a smile. Not just a driver, but a critical link in the healthcare chain, making sure that wellness was just a doorbell away."
+        },
+        {
+            "id": "eea31ec2-00d4-47ef-bd3b-ecc7e2b512b2",
+            "role": "Tour Coordinator",
+            "company": "GWT",
+            "experience": 2,
+            "description": "The mastermind behind seamless, memorable tours. I orchestrated itineraries, managed logistics, and ensured every trip was an adventure to remember. From handling bookings to solving on-the-go challenges, I was the go-to person for a smooth, enjoyable tour experience. My role was to create and turn travel plans into reality, creating unforgettable journeys for every traveler!"
+        },
+        {
+            "id": "da02720e-fa1c-4956-9479-e5d636e021c2",
+            "role": "Plumber",
+            "company": "Ponsioen",
+            "experience": 5,
+            "description": "My expertise extended beyond mere repairs. I was deeply involved in renovations and new installations, skillfully working with gas, water, drainage, and more. From roofing to ventilation, air-conditioning to heating systems, my role was pivotal in transforming spaces. I didn't just work with pipes and tools; I was a key player in creating functional, efficient environments, ensuring every project was a seamless blend of quality and craftsmanship."
+        }
+    ]
+}

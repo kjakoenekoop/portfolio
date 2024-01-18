@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "f67a8d9f-18f2-48f3-813e-2df90dada5ae",
+            "title": "Languages",
+            "items": [
+                "JavaScript",
+                "TypeScript",
+                "PHP",
+                "Java",
+                "Rust"
+            ]
+        },
+        {
+            "id": "b62a922b-3e92-440e-bc64-cf480a531470",
+            "title": "Markup & Styling",
+            "items": [
+                "HMTL",
+                "SCSS",
+                "Tailwindcss",
+                "styled-components"
+            ]
+        },
+        {
+            "id": "209ee247-211b-4a1f-a857-073336d5b5e8",
+            "title": "Web Frameworks",
+            "items": [
+                "React",
+                "Next.js",
+                "Vue.js",
+                "Nuxt",
+                "Astro",
+                "Angular"
+            ]
+        },
+        {
+            "id": "1c86ba2e-1b53-446e-82da-afa3c88405ca",
+            "title": "Back-End Technologies",
+            "items": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "Node.js",
+                "Express.js"
+            ]
+        },
+        {
+            "id": "32f2706c-68cf-4fc6-b45c-c5d0a00ff98d",
+            "title": "Dev Environment & Tools",
+            "items": [
+                "Neovim",
+                "WebStorm",
+                "IntelliJ",
+                "Git",
+                "Docker",
+                "PNPM"
+            ]
+        },
+        {
+            "id": "28880435-abbb-45d4-be13-35e6603897d1",
+            "title": "Design & UI/UX",
+            "items": [
+                "Figma",
+                "Adobe XD",
+                "Adobe Photoshop",
+                "Adobe Lightroom"
+            ]
+        }
+    ]
+}
